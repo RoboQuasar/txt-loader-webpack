@@ -1,0 +1,16 @@
+.main-title {
+  margin: 20px auto;
+  color: green;
+  font-size: 20px;
+}
+
+.main-button {
+  color: black;
+  background: yellow;
+  transition: background 0.5s;
+}
+
+.main-button:hover {
+  color: white;
+  background: blue;
+}
