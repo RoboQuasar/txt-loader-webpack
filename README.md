@@ -11,4 +11,8 @@
 *Для просмотра через браузер, достаточно произвести сборку `npm run build`, открыть в браузере `index.html` и
 посмотреть результат сборки через браузерную консоль, нажимая на кнопку.*
 
+
+*Посмотреть готовый результат можно тут: [index.html](https://roboquasar.github.io/txt-loader-webpack/)*
+
+
 **Author:** [RoboQuasar](https://github.com/RoboQuasar)
